@@ -402,8 +402,8 @@ end)
 
 ---------------
 
-local SecondButton = AimlockPage.AddButton("Dimag Aimlock (Q)", function()
-    _G.KEY = "q"
+local SecondButton = AimlockPage.AddButton("naj Aimlock (Q)", function()
+    _G.KEY = "f"
     _G.PART = "LowerTorso"
     _G.PRED = 0.037
     _G.Frame = Vector3.new(0,0.53,0)
